@@ -1,5 +1,5 @@
 # Project
 
-To do:
+Options which caan be pursued:
 
-Trying to use ML to simulate the behaviour of Chaos
+1) Trying to use Machine Learning and Artificial Intelligence to simulate the behaviour of Chaos
